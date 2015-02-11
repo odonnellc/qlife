@@ -1,0 +1,6 @@
+[SQL]
+DBname: dbname
+Host: localhost
+Username: user
+Password: password
+Port: 3306

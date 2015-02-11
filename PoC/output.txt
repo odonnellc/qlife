@@ -109,26 +109,26 @@ font-size:1em;
 <td rowspan='5' align='center'>
 <img src='McClay Library.png' height='400'>
 </td>
-<td align='center'>73</td>
+<td align='center'>89</td>
 <td>3rd floor</td>
 </tr>
 <tr class='alt'>
-<td align='center'>93</td>
+<td align='center'>101</td>
 <td>2nd floor</td>
 </tr>
 <tr>
-<td align='center'>62</td>
+<td align='center'>74</td>
 <td>1st floor</td>
 </tr>
 <tr class='alt'>
-<td align='center'>72</td>
+<td align='center'>85</td>
 <td>G floor atrium</td>
 </tr>
 <tr>
-<td align='center'>127</td>
+<td align='center'>126</td>
 <td>G floor ext hrs</td>
 </tr>
 </table>
-<div id='dt'>Last refreshed : 10/02/2015 09:34:45 pm</div>
+<div id='dt'>Last refreshed : 11/02/2015 10:39:15 pm</div>
 </body>
 </html>
